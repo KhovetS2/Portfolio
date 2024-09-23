@@ -2,8 +2,7 @@
 
 ## Introdução
 
-![foto](foto.jpeg)
-<img src="foto.jpeg" alt="Foto" width="300" height="300" />
+<img src="foto.jpeg" alt="Foto" width="300" height="500" />
 
 Olá, sou Isaque Elis da Silva, um entusiasta de Linux e suas diversas possibilidades e inovações, como hobby adoro testar distribuições Linux e assistir contéudos sobre o mundo Linux. Sou uma pessoa que teve contato com  o mundo dos computadores bem cedo, cheguei a ir em Lan-Houses, que eram estabelecimentos com vários computadores que você podia aluar para uso, desde então sempre utilizei bastante e tinha bastante interesse em jogos e durante o ensino médio técnico que tive no IFRJ, acabei tendo um pouco de contato com a programação, por mais que não fosse parte da minha grade na época, pois fazia técnico em Agroindústria, desde aquela época tinha pretenção de realizar uma graduação em Ciência da Computação, até que comecei minha jonarda em programação na UFRRJ de Nova Iguaçu, porém acabei trancando por motivos pessoais, até que pelo meio ouvir falar da Fatec e de sua metodologia diferencial, o que me interessou e me fez realizar a prova para a Fatec.
 
