@@ -4,38 +4,38 @@
 
 <img src="foto.jpeg" alt="Foto" width="300" height="500" />
 
-Olá, sou Isaque Elis da Silva, um entusiasta de Linux e suas diversas possibilidades e inovações, como hobby adoro testar distribuições Linux e assistir contéudos sobre o mundo Linux. Sou uma pessoa que teve contato com  o mundo dos computadores bem cedo, cheguei a ir em Lan-Houses, que eram estabelecimentos com vários computadores que você podia aluar para uso, desde então sempre utilizei bastante e tinha bastante interesse em jogos e durante o ensino médio técnico que tive no IFRJ, acabei tendo um pouco de contato com a programação, por mais que não fosse parte da minha grade na época, pois fazia técnico em Agroindústria, desde aquela época tinha pretenção de realizar uma graduação em Ciência da Computação, até que comecei minha jonarda em programação na UFRRJ de Nova Iguaçu, porém acabei trancando por motivos pessoais, até que pelo meio ouvir falar da Fatec e de sua metodologia diferencial, o que me interessou e me fez realizar a prova para a Fatec.
+Olá, sou Isaque Elis da Silva, um entusiasta de Linux e suas diversas possibilidades e inovações. Como hobby, adoro testar distribuições Linux e assistir a conteúdos sobre o mundo Linux. Sou uma pessoa que teve contato com o mundo dos computadores bem cedo; cheguei a ir a lan houses, que eram estabelecimentos com vários computadores que você podia alugar para uso. Desde então, sempre utilizei bastante e tinha muito interesse em jogos. Durante o ensino médio técnico que tive no IFRJ, acabei tendo um pouco de contato com a programação, por mais que não fosse parte da minha grade na época, pois fazia técnico em Agroindústria. Desde aquela época, tinha a pretensão de realizar uma graduação em Ciência da Computação, até que comecei minha jornada em programação na UFRRJ de Nova Iguaçu, porém acabei trancando por motivos pessoais. Até que, no meio do caminho, ouvi falar da Fatec e de sua metodologia diferencial, o que me interessou e me fez realizar a prova para a Fatec.
 
-Desde que entrei na Fatec, eu aprendi muitas coisas sobre tecnologia, metodologias ágeis e sobre Soft Skills, realizando diversos projetos, tanto internos, como com participação da iniciativa privada, onde desolvi uma melhor capacidade de solucionar problemas e também uma grande melhora na habilidades técnicas. Hoje entendo os conceitos de programação orientada a objetos, estrutura de dados, banco de dados relacionais e não relacionais, sobre ponteiro e referência de mémoria, conteinerização de aplicações, além de estar sempre entusiamado para aprender as novas tecologias;
-
+Desde que entrei na Fatec, aprendi muitas coisas sobre tecnologia, metodologias ágeis e soft skills, realizando diversos projetos, tanto internos quanto com participação da iniciativa privada, onde desenvolvi uma melhor capacidade de solucionar problemas e também uma grande melhora nas habilidades técnicas. Hoje, entendo os conceitos de programação orientada a objetos, estrutura de dados, bancos de dados relacionais e não relacionais, ponteiros e referências de memória, containerização de aplicações, além de estar sempre entusiasmado para aprender novas tecnologias.
 ## Contatos
 * [GIT](https://github.com/KhovetS2)
 * [LinkedIn](https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/)
 * [E-Mail](mailto:isaqueelis2@gmail.com)
 
 ## Meus Principais Conhecimentos
-Meu principal foco é no desenvolvimento backend, onde tenho mais experiência com python e o framework FastAPI. Além disso, também tenho experiência com React e TypeScript estou atualmente ampliando meus conhecimentos em Java e AWS.
-Já tive contato com essas tecnologias, frameworks e plataformas:
+Meu principal foco é o desenvolvimento backend, com experiência significativa em Python e no framework FastAPI. Além disso, tenho conhecimentos em React e TypeScript e atualmente estou ampliando minhas habilidades em Java e AWS.
 
-* Java
-* Python
-* TypeScript
-* FastAPI
-* React
-* MySQL
-* Postegres
-* Scrum
-* HTML
-* CSS
-* Linux
-* Docker
-* AWS
+Tive contato com as seguintes tecnologias, frameworks e plataformas:
+
+Java
+Python
+TypeScript
+FastAPI
+React
+MySQL
+PostgreSQL
+Scrum
+HTML
+CSS
+Linux
+Docker
+AWS
 
 
 ## Meus Projetos
 
 ### Em 2022-2 - TECHELP
-*TECHELP* é um Sistema Web para Controle de Ordens de Serviço que permite o monitoramento dos computadores dos laboratórios da faculdade desenvolvido para o Professor Antonio Egydio da Fatec de São José dos Campos.
+TECHELP é um sistema web para controle de ordens de serviço, projetado para monitorar os computadores dos laboratórios da faculdade. Este sistema foi desenvolvido em colaboração com o Professor Antonio Egydio, da Fatec de São José dos Campos.
 
 #### Problema
 O Professor Egydio buscava uma forma de automatizar o processo de informação de equipamentos dos laboratórios de informática com mau funcionamento.
@@ -72,7 +72,8 @@ Como solução, minha equipe desenvolveu um sistema que permite o usuário busca
 * MySQL - Banco de Dados Relacional utilizado para armazenar e gerenciar os dados do software.
 
 #### Contribuições Pessoais
-No projeto, atuei como desenvolvedor, onde fui um dos principais pilares para construções da aplicação, criando as rotas do backend e na construção das páginas, além de auxiliar os outros membros da equipe.
+No projeto, atuei como desenvolvedor, desempenhando um papel fundamental na construção da aplicação. Fui responsável pela criação das rotas do backend e pelo desenvolvimento das páginas, além de oferecer suporte e orientação aos demais membros da equipe.
+
 
 #### Hard Skills
 Exercitei as seguintes Hard Skills durante esse projeto:
@@ -83,6 +84,6 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 #### Soft Skills
 
-Durante o trabalho no projeto, eu fui autonomo para aprender os contéudos e aplicar no projeto, além de ter iniciativa para realizar as tarefas e também auxiliei os membros que estava com dificuldade na tecnologia.
+Durante o trabalho no projeto, tive autonomia para aprender os conteúdos e aplicá-los na prática. Além disso, demonstrei iniciativa ao realizar as tarefas e ofereci suporte aos membros da equipe que enfrentavam dificuldades com a tecnologia.
 
 
