@@ -238,7 +238,7 @@ A necessidade identificada era garantir que os colaboradores e convidados tivess
 <img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_4SEMESTRE_2024.1/refs/heads/main/Documentação/img/Protótipo/Tela_Visualizar_Usuários.PNG" width="480" height="270" >
 
 * Tela Agendamento Híbrido:
-<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_4SEMESTRE_2024.1/refs/heads/main/Documentação/img/Protótipo/Tela_Agendamento_Hibrido.PNG" width="480" height="270" >
+<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_4SEMESTRE_2024.1/refs/heads/main/Documentação/img/Protótipo/Tela_Agendamento_Hibrido.PNG" width="480" >
 
 </details>
 <br>
