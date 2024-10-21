@@ -34,7 +34,7 @@ AWS
 
 ## Meus Projetos
 
-### Em 2022-2 - TECHELP
+### Primeiro semestre em 2022-2 - TECHELP
 TECHELP é um sistema web para controle de ordens de serviço, projetado para monitorar os computadores dos laboratórios da Fatec São José dos Campos. Este sistema foi desenvolvido em colaboração com o Professor Antonio Egydio, da Fatec de São José dos Campos.
 
 #### Problema
@@ -89,7 +89,7 @@ Durante o trabalho no projeto, tive autonomia para aprender os conteúdos e apli
 
 
 
-### Em 2023-1 - VAPT
+### Segundo semestre em 2023-1 - VAPT
 VAPT é um sistema desktop para automatizar o controle de atividades avaliativas para uma professora.
 
 #### Problema
@@ -141,7 +141,7 @@ Durante o trabalho no projeto, trabalhei colaborando com a equipe, solucionando 
 
 
 
-### Em 2023-2 - Sistema de Organização, Gerenciamento e Auditoria de Processos (SOGAP)
+### Terceiro semestre em 2023-2 - Sistema de Organização, Gerenciamento e Auditoria de Processos (SOGAP)
 
 SOGAP é um sistema web para organização, gerenciamento e auditoria de processos, sendo possível criar processos, solicitar evidências e valida-las, afim de ter processo documentado para auditorias.
 
@@ -204,7 +204,7 @@ Durante o trabalho no projeto, auxilei os novos membros do grupo a começar o de
 
 
 
-### Em 2024-1 - Synergy
+### Quarto semestre em 2024-1 - Synergy
 
 Synergy é um sistema web para agendamento de reuniões presecial, hibridas e online.
 
@@ -256,7 +256,7 @@ A necessidade identificada era garantir que os colaboradores e convidados tivess
 * NestJs: Framework utilizado no back-end para construir uma API robusta e escalável.
 
 #### Contribuições Pessoais
-No projeto, atuei como desenvolvedor, sendo resposável por diversas funcionadades do frontend, como autenticação com usuário, criação de formulários, entre outros, além de trabalhar na autenticação com o Zoom.
+No projeto, atuei como desenvolvedor, sendo resposável por diversas funcionadades do frontend, como autenticação do usuário, criação de formulários, além de trabalhar na autenticação com o Zoom e com agendamento de reuniões no Zoom.
 
 
 #### Hard Skills
