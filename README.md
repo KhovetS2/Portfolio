@@ -6,7 +6,7 @@
 
 Olá, sou Isaque Elis da Silva, um entusiasta de Linux e suas diversas possibilidades e inovações. Como hobby, adoro testar distribuições Linux e assistir a conteúdos sobre o mundo Linux. Sou uma pessoa que teve contato com o mundo dos computadores bem cedo; cheguei a ir a lan houses, que eram estabelecimentos com vários computadores que você podia alugar para uso. Desde então, sempre utilizei bastante e tinha muito interesse em jogos. Durante o ensino médio técnico que tive no IFRJ, acabei tendo um pouco de contato com a programação, por mais que não fosse parte da minha grade na época, pois fazia técnico em Agroindústria. Desde aquela época, tinha a pretensão de realizar uma graduação em Ciência da Computação, até que comecei minha jornada em programação na UFRRJ de Nova Iguaçu, porém acabei trancando por motivos pessoais. Até que, no meio do caminho, ouvi falar da Fatec e de sua metodologia diferencial, o que me interessou e me fez realizar a prova para a Fatec.
 
-Desde que entrei na Fatec, aprendi muitas coisas sobre tecnologia, metodologias ágeis e soft skills, realizando diversos projetos, tanto internos quanto com participação da iniciativa privada, onde desenvolvi uma melhor capacidade de solucionar problemas e também uma grande melhora nas habilidades técnicas. Hoje, entendo os conceitos de programação orientada a objetos, estrutura de dados, bancos de dados relacionais e não relacionais, ponteiros e referências de memória, containerização de aplicações, além de estar sempre entusiasmado para aprender novas tecnologias.
+Desde que entrei na Fatec, aprendi muitas coisas sobre tecnologia, metodologias ágeis e soft skills, realizando diversos projetos, tanto internos quanto com participação da iniciativa privada, onde desenvolvi uma melhor capacidade de solucionar problemas e também uma grande melhora nas habilidades técnicas. Hoje, entendo os conceitos de programação orientada a objetos, estrutura de dados, bancos de dados relacionais e não relacionais, ponteiros e referências de memória, containerização de aplicações, além de estar sempre entusiasmado para aprender novas tecnologias. Para além disso, estou em busca de novas oportunidades
 ## Contatos
 * [GIT](https://github.com/KhovetS2)
 * [LinkedIn](https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/)
@@ -72,7 +72,7 @@ Como solução, minha equipe desenvolveu um sistema que permite o usuário busca
 * MySQL - Banco de Dados Relacional utilizado para armazenar e gerenciar os dados do software.
 
 #### Contribuições Pessoais
-No projeto, atuei como desenvolvedor, desempenhando um papel fundamental na construção da aplicação. Fui responsável pela criação das rotas do backend e pelo desenvolvimento das páginas, além de oferecer suporte e orientação aos demais membros da equipe.
+No projeto, atuei como desenvolvedor, desempenhando um papel fundamental na construção da aplicação. Fui responsável pela criação das rotas do backend para criação de usuário, login do usuário e pelo desenvolvimento das páginas de login e da tela de criação de laboratório, além de oferecer suporte e orientação aos demais membros da equipe.
 
 
 #### Hard Skills
@@ -84,7 +84,7 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 #### Soft Skills
 
-Durante o trabalho no projeto, tive autonomia para aprender os conteúdos e aplicá-los na prática. Além disso, demonstrei iniciativa ao realizar as tarefas e ofereci suporte aos membros da equipe que enfrentavam dificuldades com a tecnologia.
+Durante o trabalho no projeto, tive autonomia para aprender os conteúdos e aplicá-los na prática, como aprender a criação de rotas utilizando o framework do Flask. Além disso, demonstrei iniciativa ao realizar das tarefas da sprint, com intuito de manter sempre a entrega em dia e ofereci suporte aos membros da equipe que enfrentavam dificuldades com python e Flask, ensinando a criar rotas.
 
 
 
@@ -125,7 +125,7 @@ Como solução, minha equipe desenvolveu um sistema que permite o usuário busca
 * MySQL - Banco de Dados Relacional utilizado para armazenar e gerenciar os dados do software.
 
 #### Contribuições Pessoais
-No projeto, atuei como Scrum Master, auxiliando o time de desenvolvimento na construção da aplicação, ajudando a solucionar as dificuldades e impecilhos. Além disso, também auxilei o time a desenvolver as telas da aplicação e construir as buscas no banco de dados.
+No projeto, atuei como Scrum Master, auxiliando o time de desenvolvimento na construção da aplicação, ajudando a solucionar as dificuldades e impecilhos, como a dificuldade de iniciar e configurar o banco de dados, como utilizar o ambiente desenvolvimento para Java, como construir as interface usando Java Swing, com isso até achei um canal no Youtube com conteúdos utilizando Java Swing para auxilia-los. Além disso, também auxilei o time a desenvolver as telas da aplicação, como a tela home, a tela do aluno e construir as buscas no banco de dados, além de criar uma busca que retorna o valor da porcentagem de entregas do aluno.
 
 
 #### Hard Skills
@@ -137,7 +137,7 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 #### Soft Skills
 
-Durante o trabalho no projeto, trabalhei colaborando com a equipe, solucionando dificuldades que eles tinham durante o desenvolvimento do programa.
+Durante o trabalho no projeto, trabalhei colaborando com a equipe, solucionando dificuldades que eles tinham durante o desenvolvimento do programa, seja dificuldades com tecnologia como o Java Swing, como dificuldades de entender as tarefas, além de buscar canais no Youtube com conteúdos que pudessem auxiliar os membros da minha equipe.
 
 
 
@@ -185,7 +185,7 @@ Como solução, minha equipe desenvolveu um sistema web inspirado no Jira, utili
 * Nginx: Realizado para fazer um proxy reverso da aplicação para que ela seja acessada pelo mesmo ip todos os seus recursos.
 
 #### Contribuições Pessoais
-No projeto, atuei como Scrum Master, fui importante auxiliando os membros em suas dificuldades e resolvendo qualquer problema que atrapalhassem no cumprimento de suas tarefas. Além disso, atuei no desenvolvimeto das telas, realizei a configuração do docker e do reverse proxy, construi um conexão de websocket para atualização em tempo real dos dados das etapas na tela dos usuários.
+No projeto, atuei como Scrum Master, fui importante auxiliando os membros em suas dificuldades e resolvendo qualquer problema que atrapalhassem no cumprimento de suas tarefas. Além disso, atuei no desenvolvimeto das tela principal, tela do C-Level, tela do processo, nos cards da etapa, construi os gráficos do card da etapa, realizei a configuração do docker e do reverse proxy, construi um conexão de websocket para atualização em tempo real dos dados das etapas na tela dos usuários.
 
 
 #### Hard Skills
@@ -200,7 +200,7 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 #### Soft Skills
 
-Durante o trabalho no projeto, auxilei os novos membros do grupo a começar o desenvolvimento, colaborei ensinando em pontos onde eles tinham mais dificuldades e tomei iniciativa para realização das tarefas.
+Durante o trabalho no projeto, auxilei os novos membros do grupo a começar o desenvolvimento, explicando sobre tecnologias, apresentando vídeos de conteúdos que eles poderiam assistir, colaborei trabalhando em conjunto em pontos onde eles tinham mais dificuldades para que eles sentissem segurança durante a construção de sua tarefa e tomei iniciativa para realização das tarefas afim de manter sempre as entregas das sprints em dia.
 
 
 
@@ -256,7 +256,7 @@ A necessidade identificada era garantir que os colaboradores e convidados tivess
 * NestJs: Framework utilizado no back-end para construir uma API robusta e escalável.
 
 #### Contribuições Pessoais
-No projeto, atuei como desenvolvedor, sendo resposável por diversas funcionadades do frontend, como autenticação do usuário, criação de formulários, além de trabalhar na autenticação com o Zoom e com agendamento de reuniões no Zoom.
+No projeto, atuei como desenvolvedor, sendo resposável por diversas funcionadades do frontend, como autenticação do usuário, configuração Bearer Token para identificar que aquele usuário pode acessar quais telas, criação da tela inicial, criando drawer para edição dos usuários, crianção a função de enviar email para os usuários que participariam da reunião, além de trabalhar na autenticação com o Zoom e com agendamento de reuniões no Zoom.
 
 
 #### Hard Skills
@@ -273,4 +273,4 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 #### Soft Skills
 
-Durante o trabalho no projeto, eu trabalhei com iniciativa, sempre buscando as tarefas para fazer, tentando manter sempre os prazos em dia enquanto desenvolvia.
+Durante o trabalho no projeto, eu trabalhei com iniciativa, sempre buscando as tarefas para fazer, tentando manter sempre os prazos em dia enquanto desenvolvia, além de auxiliar os membros com as dificuldades que eles tinham com o configuração do Chakra UI para estilização dos componentes e também solucionei vários bugs da autenticação do zoom, como da criação da reunião.
