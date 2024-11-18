@@ -214,7 +214,7 @@ O projeto foi desenvolvido em parceria com a SIATT (Sistemas Integrados de Alto 
 
 A necessidade identificada era garantir que os colaboradores e convidados tivessem acesso fácil às salas disponíveis, tanto para reuniões presenciais quanto para encontros online (via Zoom) ou híbridos. A SIATT notou que o processo de organização dessas reuniões, incluindo a gestão dos horários e a disponibilidade das salas, precisava ser mais ágil e intuitivo, já que, até então, eles usavam planilhas de Excel para essa tarefa.
 #### Solução
-
+Como solução, foi desenvolvido um sistema que automatiza todo o processo de gestão de salas. A plataforma permite que os colaboradores visualizem a disponibilidade das salas em tempo real e façam reservas de forma simples e rápida, seja para reuniões presenciais, online ou híbridas. O sistema também integra diretamente com o Zoom para facilitar o agendamento de reuniões virtuais e envia notificações automáticas aos participantes e convidados via email e dentro do proprio sistema para os colaboradores.
 
 
 <details>
@@ -273,4 +273,67 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 #### Soft Skills
 
-Durante o trabalho no projeto, eu trabalhei com iniciativa, sempre buscando as tarefas para fazer, tentando manter sempre os prazos em dia enquanto desenvolvia, além de auxiliar os membros com as dificuldades que eles tinham com o configuração do Chakra UI para estilização dos componentes e também solucionei vários bugs da autenticação do zoom, como da criação da reunião.
+Durante o trabalho no projeto, eu trabalhei com proatividade, sempre buscando as tarefas para fazer, tentando manter sempre os prazos em dia das atividades enquanto desenvolvia e sempre mantendo a entrega de resultados, além de trabalhar minha comunicação e trabalho em equipe ao auxiliar os membros da equipe que tiveram dificuldades em utilizar a configuração do Chakra UI para estilização dos componentes, e também trabalhei minha autonomia ao solucionar vários bugs da autenticação do zoom onde o token gerado não estava tendo problemas ao ser armazenados e bugs onde reuniões no zoom não estavam sendo criadas.
+
+### Quinto semestre em 2024-2 - Climatrack
+
+Climatrack é um aplicativo mobile para auxiliar o monitoramento de plantações rurais.
+
+#### Problema
+
+O projeto foi desenvolvido em parceria com a empresa Kersys, que atua no desenvolvimeno de software de gestão florestal, fornecendo soluções tecnológicas voltadas para o monitoramento e gestão climática em áreas rurais e florestas. Os requisitos foram apresentados durante a reunião de Kick-Off, pelo diretor de projetos da empresa, José Roberto Pereira Jr.
+
+O desafio proposto envolvia o desenvolvimento de um aplicativo que permitisse o cadastro de pontos de monitoramento e oferecesse aos usuários gráficos e relatórios com as variações de pluviosidade e temperatura. A aplicação também deveria emitir alertas e notificações em casos de situações críticas, garantindo que o usuário pudesse visualizar dados consolidados por mês ou ano. Além disso, a solução precisava funcionar em áreas com baixa conectividade à internet e além de conter um manual de utilização para o aplicativo.
+
+
+#### Solução
+Como solução, desenvolvemos um aplicativo para auxiliar produtores rurais no monitoramento climático de suas plantações. A aplicação permite cadastrar locais de interesse por meio de um mapa ou coordenadas de latitude e longitude sem a necessidade de um cadastro do usuário no aplicativo, exibir gráficos detalhados das variações de temperatura e pluviosidade, e emitir alertas em situações críticas. Além disso, oferece visualização de dados históricos consolidados por mês ou ano, proporcionando uma visão completa e acessível para decisões estratégicas.
+
+
+<details>
+<summary>Detalhes</summary>
+
+
+
+* Tela de Pesquisar Local:
+<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SearchScreen%20-%20alta%20fidelidade.png" width="360" height="640"  />
+
+* Tela de Resultado da Pesquisa:
+<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/ResultScreen%20-%20alta%20fidelidade.png" width="360" height="640" >
+
+* Tela Locais Salvos:
+<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/MyAreas%20-%20alta%20fidelidade.png" width="360" height="640" >
+
+* Tela do Local Salvo:
+<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SavedLocation%20-%20alta%20fidelidade.png" width="360" height="640" >
+
+
+</details>
+<br>
+
+[GitHub - Climatrack](https://github.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2)
+
+#### Tecnologias Utilizadas
+
+* React Native: Utilizado no desenvolvimento da versão mobile do aplicativo, proporcionando uma experiência nativa em dispositivos móveis.
+* TypeScript: Foi utilizado no desenvolvimento front-end, garantindo tipagem estática e maior segurança no código.
+* Figma: Utilizado para a criação de protótipos de baixa e alta fidelidade, ajudando no planejamento visual do sistema.
+* Python: Implementado no back-end com o framework FastAPI, garantindo performance e fácil manutenção do código.
+* Firebase: Utilizamos o Firestore para garantir que os dados do sistema pudessem ser acessados offline e também para armazenar todas as informações relacionadas ao aplicativo.
+
+#### Contribuições Pessoais
+No projeto, atuei como Product Owner, trabalhando me comunicando com o cliente para compreender suas demandas e a partir delas realizar a construção do Product Backlog, além de esclarecer quaisquer dúvidas que o time scrum tinha sobre o produto, além disso, também realizei a construção do mapa para a tela de pesquisa, criei o protótipo do projeto no figma e trabalhei em aplicar os novos design para as telas de pesquisa, resultado e meus locais. Também realizei a configuração para que os locais salvos do usuário fiquem armazenados na mémoria de seu celular para que ele consiga acessa-los novamente.
+
+
+#### Hard Skills
+Exercitei as seguintes Hard Skills durante esse projeto:
+
+* React Native: uso com autonomia.
+* TypeScript: uso com autonomia.
+* Figma: uso com autonomia.
+* Python: consigo ensinar.
+* Firebase: uso com autonomia.
+
+#### Soft Skills
+
+Durante o trabalho no projeto, eu trabalhei a minha comunicação tanto com o cliente em saber dosar o que iria falar com o cliente, que coisas poderia prometer para o cliente que não comprometesse a minha equipe e também em entender as dúvidas da equipe em relação ao produto, como seria o funcionamento dele sem um sistema de login, eu expliquei para os integrantes do grupo para que eles compreendessem que para o que cliente precisava, o sistema de login não era necessário.
