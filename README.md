@@ -337,3 +337,65 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 #### Soft Skills
 
 Durante o trabalho no projeto, eu trabalhei a minha comunicação tanto com o cliente em saber dosar o que iria falar com o cliente, que coisas poderia prometer para o cliente que não comprometesse a minha equipe e também em entender as dúvidas da equipe em relação ao produto, como seria o funcionamento dele sem um sistema de login, eu expliquei para os integrantes do grupo para que eles compreendessem que para o que cliente precisava, o sistema de login não era necessário.
+
+### Sexto semestre em 2025-1 - Auxia
+
+Auxia é um aplicação web para realizar avaliação de LLMs.
+
+#### Problema
+
+O projeto foi trazido pela empresa Domrock que é uma empresa de soluções tecnológicas inovadoras, focada em desenvolvimento de software e consultoria. Nós foi apresentado o problema de que com aumento das LLMs se viu necessário respostas melhores, mais precisas e com menos alucinação e a dificuldade de realizar essa avaliações é muito grande sem ter críterios bem definidos e uma plataforma especializada.
+
+#### Solução
+Como solução, desenvolvemos uma aplicação web, que permite o usuário avaliar 2 resposta de LLMs avaliando as com escalas numéricas 1 a 5, com espaço para justificativas para cada nota dada e depois uma escolha final de qual resposta o usuário teve preferência, além disso os modelos são aleatorizados durante a geração da resposta afim de melhorar ainda mais a qualidade das avaliações geradas pelos usuários e o sistema também realiza um enriquecimento do prompt do usuário com contexto de um banco especializado afim de trazer respostas melhores e comparar também se aquele enriquecimento fez diferença no final, depois sendo exportado para poder aprimorar modelos de LLMs.
+
+
+<details>
+<summary>Detalhes</summary>
+
+
+
+* Tela de Envio de Pergunta:
+<img src="https://imgur.com/sdxFsxD.jpg" width="640" height="360"  />
+
+* Tela de Avaliação de Resposta:
+<img src="https://imgur.com/jSkZUks.jpg" width="640" height="360"  />
+
+* Tela de Escolha Final:
+
+<img src="https://imgur.com/ZDYX2e6.jpg" width="640" height="360"  />
+
+
+</details>
+<br>
+
+[GitHub - AUXIA](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1)
+
+#### Tecnologias Utilizadas
+
+* Vue.js: Utilizado no desenvolvimento da aplicação web.
+* TypeScript: Foi utilizado no desenvolvimento front-end, garantindo tipagem estática e maior segurança no código.
+* Figma: Utilizado para a criação de protótipos de baixa e alta fidelidade, ajudando no planejamento visual do sistema.
+* Python: Implementado no back-end com o framework FastAPI, garantindo performance e fácil manutenção do código.
+* MongoDB: Utilizado para garantir maior maleabilidade de esquemas e sua facilidade para exportação dos dados além de performance.
+* ChromaDB: Utilizado para armazenar os trechos vetorizados que seriam utilizados para enriquecer os prompts do usuário.
+
+#### Contribuições Pessoais
+No projeto, atuei como Desenvolvedor, realizei a construção de diagramas de rotas para ajudar na hora de contruir as rotas, além de realizar teste unitários com PyTest e montar a estrutura de pasta e código do backend, além disso construi o enriquecimento do prompt que é enviado as LLMs, construi o sistema de autenticação utilizando JWT seguindo a estrutura do Oauth2.0 e impedindo usuários de utilizar as rotas do backend sem o token correto, além de adicionar uma rota para exportação dos dados no formato apropriado para fine tuning. Também trabalhei no frontend fazer o drawer de edição de usuário, a tela de login, o Header da aplicação, além de trabalhar no design da aplicação no figma trazendo melhorias significativas para aparência final da aplicação.
+
+
+#### Hard Skills
+Exercitei as seguintes Hard Skills durante esse projeto:
+
+* Vue.js: uso com autonomia.
+* TypeScript: consigo ensinar.
+* Figma: consigo ensinar.
+* Python: consigo ensinar.
+* FastAPI: consigo ensinar.
+* JWT/Oauth2.0: uso com autonomia.
+* MongoDB: uso com autonomia.
+* PyTest: uso com autonomia.
+
+#### Soft Skills
+
+Durante o trabalho no projeto, eu trabalhei a minha comunicação ao tentar resolucionar os problemas de demora no resolução das tarefas, trabalhei minha proatividade perguntando para alguns membros porque não estavam fazendo suas dailys e porque estavam demorando em suas tasks com intuito de descobrir os problemas para tentar conseguir auxiliar-los e assim não comprometer a entrega da sprint e trabalhei minha colaboração ao auxiliar membros que estavam com dificuldades em rodar a aplicação e entender alguns conceitos como o do rag, sentei com eles explicando o que eles precisavam saber e mostrando aqueles que não estavam conseguindo rodar a aplicação como rodar e conseguir fazer suas tasks.
