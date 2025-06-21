@@ -350,7 +350,7 @@ Auxia é uma aplicação web para avaliação de respostas de LLMs.
 
 #### Problema
 
-O projeto foi proposto pela empresa Domrock, especializada em soluções tecnológicas inovadoras. Foi-nos apresentado que, com o crescimento das LLMs, tornou-se necessário obter respostas mais precisas e com menos alucinações. No caso citado, cuidadores de pacientes com Alzheimer precisam de informações confiáveis e baseadas em evidências. Além disso, há grande dificuldade em realizar essas avaliações sem critérios bem definidos e sem uma plataforma especializada.
+O projeto foi proposto pela empresa Domrock, especializada em soluções tecnológicas inovadoras. Foi-nos apresentado que, com o crescimento das LLMs, tornou-se necessário obter respostas mais precisas e com menos alucinações. No caso citado, cuidadores de pacientes com Alzheimer precisam de informações confiáveis e baseadas em evidências, pois se as LLMs gerarem respostas erradas, podem gerar risco para vida dos cuidadores e dos pacientes com Alzheimer. Além disso, há grande dificuldade em realizar essas avaliações sem critérios bem definidos e sem uma plataforma especializada.
 
 #### Solução
 
