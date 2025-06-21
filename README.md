@@ -275,127 +275,142 @@ Exercitei as seguintes Hard Skills durante esse projeto:
 
 Durante o trabalho no projeto, eu trabalhei com proatividade, sempre buscando as tarefas para fazer, tentando manter sempre os prazos em dia das atividades enquanto desenvolvia e sempre mantendo a entrega de resultados, além de trabalhar minha comunicação e trabalho em equipe ao auxiliar os membros da equipe que tiveram dificuldades em utilizar a configuração do Chakra UI para estilização dos componentes, e também trabalhei minha autonomia ao solucionar vários bugs da autenticação do zoom onde o token gerado não estava tendo problemas ao ser armazenados e bugs onde reuniões no zoom não estavam sendo criadas.
 
-### Quinto semestre em 2024-2 - Climatrack
+### Quinto semestre em 2024-2 – Climatrack
 
-Climatrack é um aplicativo mobile para auxiliar o monitoramento de plantações rurais.
+Climatrack é um aplicativo mobile que auxilia no monitoramento de plantações rurais.
 
 #### Problema
 
-O projeto foi desenvolvido em parceria com a empresa Kersys, que atua no desenvolvimeno de software de gestão florestal, fornecendo soluções tecnológicas voltadas para o monitoramento e gestão climática em áreas rurais e florestas. Os requisitos foram apresentados durante a reunião de Kick-Off, pelo diretor de projetos da empresa, José Roberto Pereira Jr.
+O projeto foi desenvolvido em parceria com a empresa Kersys, que atua no desenvolvimento de software de gestão florestal, fornecendo soluções tecnológicas voltadas para o monitoramento e gestão climática em áreas rurais e florestas. Os requisitos foram apresentados durante a reunião de kick-off pelo diretor de projetos da empresa, José Roberto Pereira Jr.
 
-O desafio proposto envolvia o desenvolvimento de um aplicativo que permitisse o cadastro de pontos de monitoramento e oferecesse aos usuários gráficos e relatórios com as variações de pluviosidade e temperatura. A aplicação também deveria emitir alertas e notificações em casos de situações críticas, garantindo que o usuário pudesse visualizar dados consolidados por mês ou ano. Além disso, a solução precisava funcionar em áreas com baixa conectividade à internet e além de conter um manual de utilização para o aplicativo.
-
+O problema nos apresentado é que produtores e fazendeiros têm dificuldades em mapear a localização de suas propriedades e, para acompanhar as condições climáticas, dependem de televisão ou de plataformas de meteorologia, sendo obrigados a anotar manualmente as temperaturas e os índices de pluviosidade. Isso torna difícil manter esses registros atualizados e levá-los às suas fazendas, além de centralizar todas essas informações em seus celulares.
 
 #### Solução
-Como solução, desenvolvemos um aplicativo para auxiliar produtores rurais no monitoramento climático de suas plantações. A aplicação permite cadastrar locais de interesse por meio de um mapa ou coordenadas de latitude e longitude sem a necessidade de um cadastro do usuário no aplicativo, exibir gráficos detalhados das variações de temperatura e pluviosidade, e emitir alertas em situações críticas. Além disso, oferece visualização de dados históricos consolidados por mês ou ano, proporcionando uma visão completa e acessível para decisões estratégicas.
 
+Como solução, desenvolvemos um aplicativo que permite ao produtor rural:
+
+* Cadastrar locais de interesse por meio de um mapa ou de coordenadas de latitude e longitude, sem necessidade de cadastro no aplicativo;
+* Exibir gráficos detalhados das variações de temperatura e pluviosidade;
+* Emitir alertas em situações críticas;
+* Visualizar dados históricos consolidados por mês ou por ano, oferecendo uma visão completa para decisões estratégicas.
 
 <details>
 <summary>Detalhes</summary>
 
+* **Tela de Pesquisa de Local:** <img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SearchScreen%20-%20alta%20fidelidade.png" width="360" height="640" />
 
+* **Tela de Resultado da Pesquisa:** <img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/ResultScreen%20-%20alta%20fidelidade.png" width="360" height="640" />
 
-* Tela de Pesquisar Local:
-<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SearchScreen%20-%20alta%20fidelidade.png" width="360" height="640"  />
+* **Tela de Locais Salvos:** <img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/MyAreas%20-%20alta%20fidelidade.png" width="360" height="640" />
 
-* Tela de Resultado da Pesquisa:
-<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/ResultScreen%20-%20alta%20fidelidade.png" width="360" height="640" >
+* **Tela de Detalhes do Local Salvo:** <img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SavedLocation%20-%20alta%20fidelidade.png" width="360" height="640" />
 
-* Tela Locais Salvos:
-<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/MyAreas%20-%20alta%20fidelidade.png" width="360" height="640" >
+</details><br>
 
-* Tela do Local Salvo:
-<img src="https://raw.githubusercontent.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2/main/Documentação/Img/Prototipo/SavedLocation%20-%20alta%20fidelidade.png" width="360" height="640" >
-
-
-</details>
-<br>
-
-[GitHub - Climatrack](https://github.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2)
+[GitHub – Climatrack](https://github.com/BuzzTech-API/API_ADS_5SEMESTE_2024.2)
 
 #### Tecnologias Utilizadas
 
-* React Native: Utilizado no desenvolvimento da versão mobile do aplicativo, proporcionando uma experiência nativa em dispositivos móveis.
-* TypeScript: Foi utilizado no desenvolvimento front-end, garantindo tipagem estática e maior segurança no código.
-* Figma: Utilizado para a criação de protótipos de baixa e alta fidelidade, ajudando no planejamento visual do sistema.
-* Python: Implementado no back-end com o framework FastAPI, garantindo performance e fácil manutenção do código.
-* Firebase: Utilizamos o Firestore para garantir que os dados do sistema pudessem ser acessados offline e também para armazenar todas as informações relacionadas ao aplicativo.
+* **React Native:** desenvolvimento da versão mobile, garantindo experiência nativa.
+* **TypeScript:** tipagem estática no front-end, aumentando a segurança do código.
+* **Figma:** criação de protótipos de baixa e alta fidelidade.
+* **Python (FastAPI):** back-end com alta performance e fácil manutenção.
+* **Firebase (Firestore):** acesso offline e armazenamento das informações.
 
 #### Contribuições Pessoais
-No projeto, atuei como Product Owner, trabalhando me comunicando com o cliente para compreender suas demandas e a partir delas realizar a construção do Product Backlog, além de esclarecer quaisquer dúvidas que o time scrum tinha sobre o produto, além disso, também realizei a construção do mapa para a tela de pesquisa, criei o protótipo do projeto no figma e trabalhei em aplicar os novos design para as telas de pesquisa, resultado e meus locais. Também realizei a configuração para que os locais salvos do usuário fiquem armazenados na mémoria de seu celular para que ele consiga acessa-los novamente.
 
+No projeto, atuei como Product Owner:
+
+* Comuniquei-me com o cliente para compreender suas demandas e, com base nelas, construí o Product Backlog;
+* Esclareci dúvidas do time Scrum sobre o produto;
+* Desenhei o mapa para a tela de pesquisa e criei o protótipo no Figma;
+* Apliquei os novos designs às telas de pesquisa, resultado e Meus Locais;
+* Configurei o armazenamento dos locais salvos na memória do celular do usuário, permitindo acesso offline.
 
 #### Hard Skills
-Exercitei as seguintes Hard Skills durante esse projeto:
 
-* React Native: uso com autonomia.
-* TypeScript: uso com autonomia.
-* Figma: uso com autonomia.
-* Python: consigo ensinar.
-* Firebase: uso com autonomia.
+Durante este projeto, exercitei:
+
+* **React Native:** uso com autonomia.
+* **TypeScript:** uso com autonomia.
+* **Figma:** uso com autonomia.
+* **Python:** consigo ensinar.
+* **Firebase:** uso com autonomia.
 
 #### Soft Skills
 
-Durante o trabalho no projeto, eu trabalhei a minha comunicação tanto com o cliente em saber dosar o que iria falar com o cliente, que coisas poderia prometer para o cliente que não comprometesse a minha equipe e também em entender as dúvidas da equipe em relação ao produto, como seria o funcionamento dele sem um sistema de login, eu expliquei para os integrantes do grupo para que eles compreendessem que para o que cliente precisava, o sistema de login não era necessário.
+* **Comunicação:** aprimorei a forma de dosar informações ao cliente, garantindo promessas factíveis, e esclareci dúvidas da equipe sobre o produto.
+* **Colaboração:** expliquei aos colegas por que o sistema de login não era necessário para atender às necessidades do cliente e alinhei expectativas.
 
-### Sexto semestre em 2025-1 - Auxia
+---
 
-Auxia é um aplicação web para realizar avaliação de LLMs.
+### Sexto semestre em 2025-1 – Auxia
+
+Auxia é uma aplicação web para avaliação de respostas de LLMs.
 
 #### Problema
 
-O projeto foi trazido pela empresa Domrock que é uma empresa de soluções tecnológicas inovadoras, focada em desenvolvimento de software e consultoria. Nós foi apresentado o problema de que com aumento das LLMs se viu necessário respostas melhores, mais precisas e com menos alucinação e a dificuldade de realizar essa avaliações é muito grande sem ter críterios bem definidos e uma plataforma especializada.
+O projeto foi proposto pela empresa Domrock, especializada em soluções tecnológicas inovadoras. Foi-nos apresentado que, com o crescimento das LLMs, tornou-se necessário obter respostas mais precisas e com menos alucinações. No caso citado, cuidadores de pacientes com Alzheimer precisam de informações confiáveis e baseadas em evidências. Além disso, há grande dificuldade em realizar essas avaliações sem critérios bem definidos e sem uma plataforma especializada.
 
 #### Solução
-Como solução, desenvolvemos uma aplicação web, que permite o usuário avaliar 2 resposta de LLMs avaliando as com escalas numéricas 1 a 5, com espaço para justificativas para cada nota dada e depois uma escolha final de qual resposta o usuário teve preferência, além disso os modelos são aleatorizados durante a geração da resposta afim de melhorar ainda mais a qualidade das avaliações geradas pelos usuários e o sistema também realiza um enriquecimento do prompt do usuário com contexto de um banco especializado afim de trazer respostas melhores e comparar também se aquele enriquecimento fez diferença no final, depois sendo exportado para poder aprimorar modelos de LLMs.
 
+Desenvolvemos uma aplicação web que permite ao usuário:
+
+* Avaliar duas respostas de LLMs com escalas numéricas de 1 a 5, incluindo espaço para justificativas;
+* Escolher, ao final, a resposta de sua preferência;
+* Utilizar geração aleatória de modelos para diversificar as avaliações;
+* Enriquecer o prompt do usuário com contexto de um banco de dados especializado, comparando se esse enriquecimento melhora a qualidade das respostas;
+* Exportar os resultados das avaliações para aprimorar futuros modelos de LLMs.
 
 <details>
 <summary>Detalhes</summary>
 
+* **Tela de Envio de Pergunta:** <img src="https://imgur.com/sdxFsxD.jpg" width="640" height="360" />
 
+* **Tela de Avaliação de Resposta:** <img src="https://imgur.com/jSkZUks.jpg" width="640" height="360" />
 
-* Tela de Envio de Pergunta:
-<img src="https://imgur.com/sdxFsxD.jpg" width="640" height="360"  />
+* **Tela de Escolha Final:** <img src="https://imgur.com/ZDYX2e6.jpg" width="640" height="360" />
 
-* Tela de Avaliação de Resposta:
-<img src="https://imgur.com/jSkZUks.jpg" width="640" height="360"  />
+</details><br>
 
-* Tela de Escolha Final:
-
-<img src="https://imgur.com/ZDYX2e6.jpg" width="640" height="360"  />
-
-
-</details>
-<br>
-
-[GitHub - AUXIA](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1)
+[GitHub – Auxia](https://github.com/BuzzTech-API/API_ADS_6SEMESTE_2025.1)
 
 #### Tecnologias Utilizadas
 
-* Vue.js: Utilizado no desenvolvimento da aplicação web.
-* TypeScript: Foi utilizado no desenvolvimento front-end, garantindo tipagem estática e maior segurança no código.
-* Figma: Utilizado para a criação de protótipos de baixa e alta fidelidade, ajudando no planejamento visual do sistema.
-* Python: Implementado no back-end com o framework FastAPI, garantindo performance e fácil manutenção do código.
-* MongoDB: Utilizado para garantir maior maleabilidade de esquemas e sua facilidade para exportação dos dados além de performance.
-* ChromaDB: Utilizado para armazenar os trechos vetorizados que seriam utilizados para enriquecer os prompts do usuário.
+* **Vue.js:** desenvolvimento do front-end.
+* **TypeScript:** tipagem estática no front-end.
+* **Figma:** prototipagem de baixa e alta fidelidade.
+* **Python (FastAPI):** back-end performático e de fácil manutenção.
+* **MongoDB:** esquema flexível e alto desempenho.
+* **ChromaDB:** armazenamento de vetores para enriquecimento de prompts.
 
 #### Contribuições Pessoais
-No projeto, atuei como Desenvolvedor, realizei a construção de diagramas de rotas para ajudar na hora de contruir as rotas, além de realizar teste unitários com PyTest e montar a estrutura de pasta e código do backend, além disso construi o enriquecimento do prompt que é enviado as LLMs, construi o sistema de autenticação utilizando JWT seguindo a estrutura do Oauth2.0 e impedindo usuários de utilizar as rotas do backend sem o token correto, além de adicionar uma rota para exportação dos dados no formato apropriado para fine tuning. Também trabalhei no frontend fazer o drawer de edição de usuário, a tela de login, o Header da aplicação, além de trabalhar no design da aplicação no figma trazendo melhorias significativas para aparência final da aplicação.
 
+Atuei como desenvolvedor:
+
+* Elaborei diagramas de rotas e estruturei a arquitetura de pastas e código do backend;
+* Implementei testes unitários com PyTest;
+* Desenvolvi o enriquecimento do prompt enviado às LLMs;
+* Construi o sistema de autenticação com JWT (OAuth 2.0), protegendo as rotas do backend;
+* Criei rota de exportação de dados para fine-tuning;
+* No front-end, implementei o drawer de edição de usuário, a tela de login e o header;
+* Apliquei melhorias de design no Figma, elevando a qualidade visual da aplicação.
 
 #### Hard Skills
-Exercitei as seguintes Hard Skills durante esse projeto:
 
-* Vue.js: uso com autonomia.
-* TypeScript: consigo ensinar.
-* Figma: consigo ensinar.
-* Python: consigo ensinar.
-* FastAPI: consigo ensinar.
-* JWT/Oauth2.0: uso com autonomia.
-* MongoDB: uso com autonomia.
-* PyTest: uso com autonomia.
+Durante este projeto, exercitei:
+
+* **Vue.js:** uso com autonomia.
+* **TypeScript:** consigo ensinar.
+* **Figma:** consigo ensinar.
+* **Python:** consigo ensinar.
+* **FastAPI:** consigo ensinar.
+* **JWT/OAuth 2.0:** uso com autonomia.
+* **MongoDB:** uso com autonomia.
+* **PyTest:** uso com autonomia.
 
 #### Soft Skills
 
-Durante o trabalho no projeto, eu trabalhei a minha comunicação ao tentar resolucionar os problemas de demora no resolução das tarefas, trabalhei minha proatividade perguntando para alguns membros porque não estavam fazendo suas dailys e porque estavam demorando em suas tasks com intuito de descobrir os problemas para tentar conseguir auxiliar-los e assim não comprometer a entrega da sprint e trabalhei minha colaboração ao auxiliar membros que estavam com dificuldades em rodar a aplicação e entender alguns conceitos como o do rag, sentei com eles explicando o que eles precisavam saber e mostrando aqueles que não estavam conseguindo rodar a aplicação como rodar e conseguir fazer suas tasks.
+* **Comunicação e Proatividade:** identifiquei atrasos nas tarefas ao questionar colegas sobre suas dificuldades e ofereci suporte para não comprometer a sprint.
+* **Colaboração:** auxiliei membros com dificuldades para rodar a aplicação e compreender conceitos como RAG, explicando passo a passo o funcionamento e solucionando dúvidas.
+
